@@ -1,0 +1,4 @@
+*.xcuserdatad
+*.xcworkspace
+DerivedData/
+Pods/
